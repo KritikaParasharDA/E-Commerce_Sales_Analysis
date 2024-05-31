@@ -3,7 +3,7 @@
 This Excel project involves conducting comprehensive analysis and visualization of eCommerce sales data to uncover valuable insights and address critical business inquiries. Leveraging advanced Excel functionalities and data visualization techniques, the project aims to provide stakeholders with actionable insights to make informed decisions and optimize business strategies in the competitive E-Commerce landscape. The project also includes the creation of an interactive dashboard, enabling users to explore sales trends, top-selling categories, and geographic patterns interactively.
 
 
-
+        
 # Features
 
 1. **Interactive Dashboard:** Displaying essential KPIs and visualizations for easy interpretation.
@@ -12,7 +12,6 @@ This Excel project involves conducting comprehensive analysis and visualization 
 4. **Category-wise Sales Distribution:** Visualizing sales distribution across product categories.
 5. **Geographic Sales Mapping:** Mapping sales data to understand regional sales patterns.
 6. **Filtering Options:** Providing slicer filters for region, segment, and year to facilitate customized analysis.
-
 
 
 # Findings
