@@ -27,3 +27,10 @@ This Excel project involves conducting comprehensive analysis and visualization 
 
 1. **Product Performance Analysis:** Evaluating sales performance by product category and sub-category to identify high-performing products.
 2. **Regional and Segment Trends:** Identifying trends and patterns in sales data across different regions and customer segments to tailor marketing strategies and product offerings effectively.
+
+
+
+**Have a glimpse of the dashboard**
+[Dashboard in HTML](file:///C:/Users/ACER/Downloads/Ecommerce%20Sales%20Analysis.htm)
+
+[Access interactive dashboard along with data](https://github.com/KritikaParasharDA/E-Commerce_Sales_Analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx)
