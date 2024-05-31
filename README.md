@@ -29,5 +29,5 @@ This Excel project involves conducting comprehensive analysis and visualization 
 2. **Regional and Segment Trends:** Identifying trends and patterns in sales data across different regions and customer segments to tailor marketing strategies and product offerings effectively.
 
 
-
+[Have a glimpse of dashboard](https://github.com/KritikaParasharDA/E-Commerce_Sales_Analysis/blob/main/E-Commerce%20Dashboard.png)
 [Access interactive dashboard along with data](https://github.com/KritikaParasharDA/E-Commerce_Sales_Analysis/blob/main/Ecommerce%20Sales%20Analysis.xlsx)
